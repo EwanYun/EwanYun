@@ -1,6 +1,6 @@
-Developer. Building projects that interest me, mostly for personal use and the people around me.
+Developing. Building projects that interest me, mostly for personal use and the people around me.
 
-Currently learning C and tightening my fundamentals across the stack.
+Currently learning C and working on fundamentals
 
 ---
 
