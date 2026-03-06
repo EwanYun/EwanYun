@@ -5,7 +5,4 @@ Currently learning C and tightening my fundamentals across the stack.
 ---
 
 **Working with**
-Python · JavaScript · TypeScript · C (learning) · OpenCV
-
-**Interested in**
-Data manipulation · Computer vision · Full-stack work
+Python · Java · JavaScript · C 
